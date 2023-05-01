@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/512/612/png-transparent-mercedes-amg-petronas-f1-team-2018-fia-formula-one-world-championship-abu-dhabi-grand-prix-logo-red-bull-racing-f1-logo-angle-text-rectangle-thumbnail.png", F1 TV
+http://127.0.0.1:6878/ace/manifest.m3u8?id=77cb36936f3341264f010d39a1758f4672e308b0
+
+#EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", Sky Sport F1 GER
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/0-por-M_Color-Negativo_RGB.jpg", M+ #0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
@@ -68,21 +82,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=bbbbc306280b2161e6c3cfa83cc9aef18f046
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", DAZN 4 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=149a38e333de920753f1388c43247283bdb05f5b
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60cf60019aeef9af6183dd05af1b89e25594ac14
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a52bf7c28df63995ad427c32ebf1e517445720bb
-
-#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/512/612/png-transparent-mercedes-amg-petronas-f1-team-2018-fia-formula-one-world-championship-abu-dhabi-grand-prix-logo-red-bull-racing-f1-logo-angle-text-rectangle-thumbnail.png", F1 TV
-http://127.0.0.1:6878/ace/manifest.m3u8?id=77cb36936f3341264f010d39a1758f4672e308b0
-
-#EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", Sky Sport F1 GER
-http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
