@@ -1,19 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d718e95b0438f9910e7ab143cc63b13c3239a3ca
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a52bf7c28df63995ad427c32ebf1e517445720bb
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=5536d4f66609c0f8589922a13f1562609e9d3ba6
+http://127.0.0.1:6878/ace/manifest.m3u8?id=468964086ebbd8b067c1a3ec4ebfc4e7a5bc9cc7
 
 #EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", Sky Sport F1 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/0-por-M_Color-Negativo_RGB.jpg", M+ #0
 http://127.0.0.1:6878/ace/manifest.m3u8?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
