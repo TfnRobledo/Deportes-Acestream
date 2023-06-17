@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
-http://127.0.0.1:6878/ace/manifest.m3u8?id=d718e95b0438f9910e7ab143cc63b13c3239a3ca
+http://127.0.0.1:6878/ace/manifest.m3u8?id=e8d2ae01fab187655f7b47feaea4d6dad9211672
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=dca8b79aadd3763786c255746b7712faa7db55e6
