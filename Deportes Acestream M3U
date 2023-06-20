@@ -113,12 +113,3 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png", Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-
-#EXTINF:-1, tvg-logo="https://www.shutterstock.com/image-vector/sports-tv-logo-vector-600w-1724791816.jpg", Sport TV1 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=c95422bc904378be0b035eba721d5e6a004f7d79
-
-#EXTINF:-1, tvg-logo="https://www.shutterstock.com/image-vector/sports-tv-logo-vector-600w-1724791816.jpg", Sport TV2 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
-
-#EXTINF:-1, tvg-logo="https://www.shutterstock.com/image-vector/sports-tv-logo-vector-600w-1724791816.jpg", Sport TV3 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
