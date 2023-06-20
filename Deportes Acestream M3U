@@ -22,7 +22,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Vamos-por-M_Color-Negativo_RGB.jpg", M+ #Vamos
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
+http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Vamos-por-M_Color-Negativo_RGB.jpg", M+ #Vamos
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1, tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2022/07/dazn-laliga-negro.cut_-715x369.jpg", DAZN LaLiga HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
