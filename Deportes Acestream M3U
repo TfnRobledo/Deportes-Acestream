@@ -105,6 +105,24 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=bbbbc306280b2161e6c3cfa83cc9aef18f046
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", DAZN 4 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=149a38e333de920753f1388c43247283bdb05f5b
 
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports Premier League
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1, tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.svg", BT Sport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1, tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.svg", BT Sport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1, tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.svg", BT Sport 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1, tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.svg", BT Sport 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
