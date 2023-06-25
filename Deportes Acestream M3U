@@ -94,16 +94,16 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=d6622ca93e54e493a6910248f8fe1f03aa85b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", DAZN 1 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png", DAZN 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png", DAZN 3 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", DAZN 4 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=149a38e333de920753f1388c43247283bdb05f5b
+http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports Premier League
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
