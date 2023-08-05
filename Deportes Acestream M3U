@@ -22,10 +22,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/LaLiga-por-M_Color-Negativo_RGB.jpg", M+ LaLigaTV HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-
-#EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/LaLiga-por-M_Color-Negativo_RGB.jpg", M+ LaLigaTV 2 HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/LaLiga-por-M_Color-Negativo_RGB.jpg", M+ LaLigaTV 2 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
