@@ -34,13 +34,13 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b
 http://127.0.0.1:6878/ace/manifest.m3u8?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Liga-de-Campeones-por-M_Color-Negativo_RGB-scaled.jpg", M+ Liga de Campeones HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Liga-de-Campeones-por-M_Color-Negativo_RGB-scaled.jpg", M+ Liga de Campeones HD 2
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Liga-de-Campeones-por-M_Color-Negativo_RGB-scaled.jpg", M+ Liga de Campeones HD 3
-http://127.0.0.1:6878/ace/manifest.m3u8?id=acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ Deportes HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
