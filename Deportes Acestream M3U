@@ -1,6 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+
+#EXTINF:-1, tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/LaLiga-por-M_Color-Negativo_RGB.jpg", M+ LaLigaTV HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8286183314d367940409b760bbf887f3fb923f60
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
