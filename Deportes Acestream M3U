@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png", DAZN F1
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png", DAZN F1 4k
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLigaTV HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLigaTV 4k
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8286183314d367940409b760bbf887f3fb923f60
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png", Eleven Sports 1
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png", Eleven Sports 1 4k
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
