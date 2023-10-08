@@ -27,61 +27,61 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080
 #EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", Sky Sport F1 UK
 http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ #Vamos
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=1960a9be8ae9e8c755330218eac4c5805466290a
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
 http://127.0.0.1:6878/ace/manifest.m3u8?id=75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLigaTV HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLigaTV HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLiga TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", M+ LaLigaTV 2 HD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=26029f72a4ca831d09deefe89534818db1d105bc
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones HD 2
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones HD 3
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes HD
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d00223931b1854163e24c5c22475015d7d45c112
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes 2 HD
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png", M+ Deportes 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", LaLiga SmartbankTV HD
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", LaLiga TV Hypermotion
 http://127.0.0.1:6878/ace/manifest.m3u8?id=4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", LaLiga SmartbankTV HD 2
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png", LaLiga TV Hypermotion 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", Eurosport 1 HD
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png", Eurosport 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png", Eurosport 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", DAZN 1 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png", DAZN 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=8ca07071b39185431f8e940ec98d1add9e561639
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png", DAZN 2 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png", DAZN 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png", DAZN 3 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png", DAZN 3
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", DAZN 4 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png", DAZN 4
 http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports Premier League
