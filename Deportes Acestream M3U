@@ -15,12 +15,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5789ca155323664edd293b848606688edf803
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", DAZN F1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=9dad717d99b29a05672166258a77c25b57713dd5
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", F1 OVERTAKEFANS 1080P
-https://18301.foroactivo.com/h2-dazn-f1.m3u
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png", F1 OVERTAKEFANS 720P
-http://127.0.0.1:6878/ace/manifest.m3u8?id=2fcf28aec8eb7596d47d1fa6de4b1826e9006984
-
 #EXTINF:-1, tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/5e262f2be1a0530c07327d65e867d74b524fac03.png", Sky Sport F1 GER
 http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
