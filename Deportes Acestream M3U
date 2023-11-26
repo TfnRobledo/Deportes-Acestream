@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", NAT GEO HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
-
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
