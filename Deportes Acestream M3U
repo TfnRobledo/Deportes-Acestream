@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://www.pngwing.com/en/free-png-nftbg", National Geographic
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Plus+
 http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
