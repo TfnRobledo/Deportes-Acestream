@@ -6,9 +6,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=5a236fbbe6e5bbfec03db548c244a7c858d67
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png", M+ Vamos
 http://127.0.0.1:6878/ace/manifest.m3u8?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", Movistar Super Copa
-http://127.0.0.1:6878/ace/manifest.m3u8?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png", DAZN F1 UHD
 http://127.0.0.1:6878/ace/manifest.m3u8?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
