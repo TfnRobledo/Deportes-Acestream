@@ -144,7 +144,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515", SETANTA SPORT 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png", SETANTA SPORT 2
+#EXTINF:-1, tvg-logo="https://i.goalzz.com/?i=o%2fh%2f0%2f438%2fsetanta-sports-2-2.png", SETANTA SPORT 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", MATCH HD RUSIA
