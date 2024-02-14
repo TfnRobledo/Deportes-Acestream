@@ -39,9 +39,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones
 http://127.0.0.1:6878/ace/manifest.m3u8?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", MATCH HD RUSIA
-http://127.0.0.1:6878/ace/manifest.m3u8?id=ff126d47dc3e3eb69552f240ce824567580f9901
-
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png", M+ Liga de Campeones 2
 http://127.0.0.1:6878/ace/manifest.m3u8?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
@@ -134,3 +131,14 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png", Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png", SETANTA SPORT 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png", SETANTA SPORT 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", MATCH HD RUSIA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+
