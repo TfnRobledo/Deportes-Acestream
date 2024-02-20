@@ -130,7 +130,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a451fabece476244792d26c653befa0b3bcdafe4
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png", Eleven Sports 1 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f63aa7c968fdef0f753050161606b4e0ec454ffd
+http://127.0.0.1:6878/ace/manifest.m3u8?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
  
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png", Eleven Sports 2 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
