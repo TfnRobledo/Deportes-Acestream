@@ -128,9 +128,6 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png", Eleven Sports 1 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=a451fabece476244792d26c653befa0b3bcdafe4
-
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png", Eleven Sports 1 POR
-http://127.0.0.1:6878/ace/manifest.m3u8?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
  
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png", Eleven Sports 2 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
@@ -149,6 +146,9 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png", Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+#EXTINF:-1, tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_select.jpg", ZIGGO SPORT SELECT
+http://127.0.0.1:6878/ace/manifest.m3u8?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515", SETANTA SPORT 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
