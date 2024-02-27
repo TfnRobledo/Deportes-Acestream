@@ -24,10 +24,10 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=b04372b9543d763bd2dbd2a1842d9723fd080
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png", SERVUS TV
 http://127.0.0.1:6878/ace/manifest.m3u8?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ORF_HD_Allgemein_Logo.svg", ORF 1
+#EXTINF:-1, tvg-logo="https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg", ORF 1
 http://127.0.0.1:6878/ace/manifest.m3u8?id=c9d6412050226de0968cea19a383b50dc1966363
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ORF_HD_Allgemein_Logo.svg", ORF SPORT
+#EXTINF:-1, tvg-logo="https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg", ORF SPORT
 http://127.0.0.1:6878/ace/manifest.m3u8?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png", DAZN LaLiga
