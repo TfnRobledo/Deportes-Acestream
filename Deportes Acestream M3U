@@ -171,10 +171,3 @@ http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png", Eleven Sports 6 POR
 http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
-#EXTINF:-1, tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_select.jpg", ZIGGO SPORT SELECT
-http://127.0.0.1:6878/ace/manifest.m3u8?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", MATCH HD RUSIA
-http://127.0.0.1:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-
-
